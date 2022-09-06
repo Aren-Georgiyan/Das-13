@@ -1,0 +1,129 @@
+body {
+    background-color: aliceblue;
+}
+
+.body {
+    display: flex;
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 100px;
+    border: 1px solid darkgrey;
+    background-color: white;
+}
+
+.text {
+    margin-left: 15px;
+}
+
+hr {
+    width: 498px;
+    background-color: black;
+}
+
+.input {
+    display: block;
+    margin-left: 65px;
+}
+
+.name {
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: -35px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+.surname {
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: -35px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    margin-left: 30px;
+}
+
+.number {
+    padding-left: 44px;
+    padding-right: 230px;
+    margin-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+
+.password {
+    padding-left: 44px;
+    padding-right: 230px;
+    margin-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+
+.date {
+   padding-left: 17px;
+    margin-left: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 10px; 
+}
+
+.gender {
+    display: flex;
+
+}
+
+.famale {
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding-right: 15px;
+    border: 1px solid black;
+}
+
+.male {
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    padding-right: 20px;
+    border: 1px solid black;
+}
+
+.enter {
+    border: 1px solid #dddfe2;
+    width: 200px;
+    padding-top: 16px;
+    padding-left: 8px;
+    padding-bottom: 14px;
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left: 135px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: #06ef06;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

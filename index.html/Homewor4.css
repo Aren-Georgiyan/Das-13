@@ -1,0 +1,81 @@
+:root {
+    --color-pramny: #111827;
+    --color-erkrordakan: rgba;
+    --color-green-200: #10B981;
+}
+
+
+
+body {
+    font-size: 16px;
+    font-family: inter;
+    
+}
+
+.flex {
+    display: flex; 
+}
+
+.jactify-center {
+    justify-content:  center;
+}
+
+.jastify-beetween {
+    justify-content: space-between;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.flex-wrap {
+    
+    flex-wrap: wrap;
+    
+}
+
+
+.block {
+    width: 320px;
+    height: 600px;
+    border: 2px solid black;
+    display: block;
+    margin-left: 140px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+
+.img {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+.text {
+    display: block;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    font-size: 19px;
+}
+
+.container {
+    gap: 1rem;
+    
+}
+
+
+h1 {
+   color: var( --color-green-200);
+}
+
+
+
+
+
+

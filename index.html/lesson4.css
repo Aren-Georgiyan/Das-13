@@ -1,0 +1,83 @@
+.card {
+    display: block;
+    width: 400px;
+    height: 600px;
+    border: 2px solid black;
+}
+
+img {
+    width: 400px;
+}
+
+.button {
+    text-align: center;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: dimgrey;
+    color: white;
+}
+
+.card:hover {
+    border: 4px solid red;
+}
+
+
+button:hover {
+    background-color: green;
+}
+
+img:hover {
+    
+    transform: scale(1.3)
+}
+
+img {
+    transition: 2sec;
+}
+
+
+.a {
+    display: flex;
+}
+
+.one {
+    display: flex;
+    border-bottom: 2px solid black;
+    width: 200px;
+    margin-top: 30px;
+    
+}
+
+input {
+    border: none;
+    
+    
+}
+
+input:focus-visible {
+    outline: none;
+    
+}
+
+input:focus {
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

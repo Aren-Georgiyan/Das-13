@@ -1,0 +1,69 @@
+.box {
+    border: 2px solid black;
+    width: 1200px;
+    height: 800px;
+
+}
+
+.one {
+    border: 2px solid red;
+    width: 400px;
+    height: 500px;
+    position:relative;
+    
+}
+
+.two {
+    border: 2px solid blue;
+    width: 100px;
+    height: 100px;
+}
+
+img {
+    width: 400px;
+}
+
+.magic {
+    border: 2px solid blue;
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    
+}
+
+.card {
+    border: 2px solid yellow;
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    z-index: 3;
+    
+}
+
+p {
+    top: 0;
+    position: absolute;
+}
+
+.music {
+    display: block;
+    border: 2px solid green;
+    width: 700px;
+}
+
+video {
+    width: 700px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+.container {
+    display: grid;
+/*    grid-template-columns: 200px 300px 400px;*/
+/*    grid-gap: 20px 40px;*/
+    grid-template-columns: repeat(auto-fill, minmax(400px,1fr));
+    column-gap: 30px;
+    grid-row-gap: 40px;
+  
+    max-width: 1920px;
+    padding: 20px;
+
+}
+
+.block {
+    border: 2px solid black;
+/*    width: 300px;*/
+    height: 400px;
+    text-align: center;
+        
+}
+
+h1 {
+    font-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

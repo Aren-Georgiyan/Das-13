@@ -1,0 +1,182 @@
+.box {
+    border: 2px solid black;
+    max-width: 1358px;
+    height: 826px;
+    position: relative;
+    background-color: #dbe3eb;
+    
+}
+
+.one {
+    display: flex;
+    border: 2px;
+   
+    
+}
+
+a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: #635c5c;
+    
+}
+
+img {
+    margin-top: 26.25px;
+    margin-left: 64.25px;
+}
+
+.text {
+    margin-top: 30px;
+    margin-left: 250px;
+}
+
+.small {
+    display: flex;
+    margin-left: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.sign {
+    background-color: #3ae2bf;
+    margin-left: 30px;
+    color: white;
+}
+
+button {
+    border-radius: 4px;
+    border: none;
+}
+
+.two {
+    border: 2px; 
+    display: flex;
+}
+
+.link {
+    display: block;
+    background-color: #3ae2bf;
+    width: 385px;
+    height: 650px;
+    margin-left: 65px;
+    
+}
+
+.h1 {
+    padding: 48px;
+    font-size: 20px;
+}
+
+p{
+    height: 72px;
+    width: 309px;
+    top: 52px;
+    margin-left: 48px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px
+}
+
+.img {
+    display: flex;
+}
+
+.bed {
+    width: 18px;
+    height: 18px;
+}
+
+.p {
+    width: 273px;
+    height: 24px;
+    margin-top: 25px;
+}
+
+.login {
+    border: 2px;
+    width: 720px;
+    background-color: white;
+}
+
+.enter {
+    border: 2px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -20px;
+    margin-left: 60px;
+}
+
+.name {
+    display: block;
+    border: 2px;
+    width: 320px;
+}
+
+.surname {
+    padding-top: 8px;
+    padding-right:110px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    margin-top: -10px;
+    border-radius: 6px;
+    border: 1px solid #d7d2d2;
+    
+}
+
+h4 {
+    font-size: 13px;
+}
+
+.ten {
+    border: 2px;
+    margin-left: 60px;
+}
+
+.subject {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    padding-right: 435px;
+    border-radius: 6px;
+    border: 1px solid #d7d2d2;
+    margin-top: -8px;
+}
+
+.room {
+    border: 2px;
+    margin-left: 60px;
+    
+}
+
+.message {
+    padding-top: 8px;
+    padding-bottom:70px;
+    padding-left: 8px;
+    padding-right: 435px;
+    border-radius: 6px;
+    border: 1px solid #d7d2d2;
+    margin-top: -8px;
+}
+
+.six {
+    padding: 10px;
+    background-color: #3ae2bf;
+    color: white;
+    margin-top: 10px;
+    margin-left: 606px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
